@@ -2,8 +2,8 @@
 #desenvolvido por : Debora
 
 letra=input("Escreva uma letra:")
-#if:se 
-if letra and "aeiou":
+#if:se in:verifica se algo está dentro de outra coisa
+if letra in "aeiou":
     print("Essa letra é uma vogal.")
 #senao
 else:

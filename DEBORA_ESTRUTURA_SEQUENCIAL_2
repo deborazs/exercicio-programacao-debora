@@ -1,2 +1,4 @@
+#Desenvolvido por: Debora
+
 número = input("Digite um número: ")
 print("O número informado foi",número)

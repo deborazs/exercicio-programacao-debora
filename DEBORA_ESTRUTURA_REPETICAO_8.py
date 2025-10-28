@@ -1,5 +1,5 @@
 #Faça um programa que leia 5 números e informe a soma e a média dos números.
-#desenvolvido por: Debora
+#Desenvolvido por: Debora
 
 numero1=float(input("Digite o 1º número:"))
 numero2=float(input("Digite o 2º número:"))

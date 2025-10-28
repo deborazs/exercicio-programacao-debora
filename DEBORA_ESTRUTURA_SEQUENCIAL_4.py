@@ -1,5 +1,5 @@
-#Desenvolvido por: Debora
 #Faça um programa que peça as 4 notas bimestrais e mostre a média.
+#Desenvolvido por: Debora 
 nota_1 = float(input("Digite a nota 1: "))
 nota_2 = float(input("Digite a nota 2: "))
 nota_3 = float(input("Digite a nota 3: "))

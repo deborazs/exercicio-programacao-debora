@@ -1,5 +1,5 @@
 #Faça um programa que verifique se uma letra digitada é vogal ou consoante.
-#desenvolvido por : Debora
+#Desenvolvido por : Debora
 
 letra=input("Escreva uma letra:")
 #if:se in:verifica se algo está dentro de outra coisa

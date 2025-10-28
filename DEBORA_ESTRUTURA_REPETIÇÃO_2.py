@@ -1,6 +1,6 @@
 #Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual 
 #ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
-#desenvolvido por: Debora
+#Desenvolvido por: Debora
 
 nome = input("Digite seu nome: ")
 senha = input("Digite sua senha: ")

@@ -2,7 +2,7 @@
 #F - Feminino
 #M - Masculino
 #Sexo Inválido.
-#desenvolvido por : Debora
+#Desenvolvido por : Debora
 
 letra=input("Digite 'F' ou 'M':")
 if letra=="F":

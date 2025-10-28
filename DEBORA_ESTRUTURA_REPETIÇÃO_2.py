@@ -12,4 +12,4 @@ while nome == senha:
     nome = input("Digite seu nome:")
     senha = input("Digite sua senha:")
 
-print("Olá,", nome, "sua senha esta segura comigo!)")
+print("Olá,", nome, "sua senha esta segura comigo!")
